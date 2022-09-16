@@ -1,0 +1,79 @@
+<DOCTYPE !html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+	<title>Project No. 1 for ITM 361</title>
+  </head>
+  
+  <body>
+    <header>
+	  <nav>
+	    <ul>
+		  <li><a href="#jump" title="About Me">Home</a></li>
+		  <li><a href="work_experience.html">Work Experience</a></li>
+		  <li><a href="travel.html">Travel Log</a></li>
+		</ul>
+	  </nav>
+	</header>
+	
+	<section>
+	  <header>
+	    <h2>Personal Information</h2>
+	  </header>
+	  <section>
+	    <header>
+		<h3>Contact Details</h3>
+		</header>
+	    <h4> Name</h4>
+		<p> Munawar Ali</p>
+		<h4>Title</h4>
+		<ul>
+		  <li>Operations Manager at Central Bank of Pakistan (on Study Leave)</li>
+          <li>Fulbright Scholar</li>
+        </ul>		  
+		<h4>Email</h4>
+		<p><a href="mali66@hawk.iit.edu">mali66@hawk.iit.edu</a></p>
+		<h4>Phone</h4>
+		<p>+1 517 944 5140</p>
+		<h4>Address</h4>
+		<p>3227 S Carpenter St. Chicago IL 60608</p>
+	  </section>
+	  
+	  <section>
+	    <h3>Education</h3>
+		<ul>
+		  <li>Master's Student at Illinois Institute of Technology for ITM (currently)</li>
+		  <li>Bachelor's in Electronic Engineering</li>
+        </ul>		  
+	  
+	  <section>
+	    <h3>Interests</h3>
+	    <ul>
+	      <li>Learning New Skills </li>
+		  <li>Meeting New People</li>
+		  <li>Listening to Music</li>
+		  <li>Cooking</li>
+		  <li>Pets</li>
+	    </ul>
+      </section>
+	  
+	  <section>
+	    <h3>Languages</h3>
+		<ul>
+		  <li><strong>English</strong>Fluent</li>
+		  <li><strong>Sindhi</strong>Native</li>
+		  <li><strong>Urdu</strong>Fluent</li>
+		  <li><strong>Punjabi</strong>Intermediate</li>
+		</ul>
+	  </section>
+	</section>
+  </body>
+</html>
+		  
+		  
+	  
+		
+		
+		
+		
